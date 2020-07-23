@@ -43,7 +43,7 @@ Hi, My name is Paul Steven, I have completed Master in Computer Science &Enginee
 
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/express/express-original-wordmark.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img height="50" src="https://i.postimg.cc/KvZhx9hJ/netclipart-com-flask-clipart-793376.png"></code>
 
 **Designing Tools Used:**
 
