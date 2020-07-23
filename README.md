@@ -26,4 +26,4 @@ Hi, My name is Paul Steven, I have completed Master in Computer Science &Enginee
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulstevenme&theme=tokyonight)
-![Paul Steven github stats](https://github-readme-stats.vercel.app/api?username=theleancoderr&show_icons=true&theme=tokyonight)
+![Paul Steven github stats](https://github-readme-stats.vercel.app/api?username=paulstevenme&show_icons=true&theme=tokyonight)
