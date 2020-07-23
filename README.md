@@ -8,9 +8,15 @@ Hi, My name is Paul Steven, I have completed Master in Computer Science &Enginee
 
 
 <details> <summary>Featured</summary>
-<!-- - 👯 I’m looking to collaborate on [Covid-19 Tracker](https://github.com/theleancoderr/Covid-19India-Tracker-) -->
 
-<li>🔭 I’m currently working on problem solving skills</li>
+<li>💻 1+ Year Experience in Python, ReactJS, Android.</li>
+<li>🏫 1+ Year Experience as Assistant Professor in Engineering College.</li>
+<li>🎓 Strong Engineering professional with a Master's degree in Computer Science</li>
+<li>💪🏻 Skilled in Python, React JS and Android App Development</li>
+<li>💾 Handled Elastic Search, Firebase, MySQL, SQLite, Mongo, Couch Databases.</li>
+<li>🌈 Played with ReactJS.</li>
+<li>💻 Sharing My Daily Coding Life.</li>
+<li>📚 Lifelong Learner.</li>
 <li>📫 Contact me - <a href="mailto:paulstevenme@gmail.com">paulstevenme@gmail.com</a></li>
 <li>😄 Pronouns: He/Him</li>
 
