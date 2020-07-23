@@ -22,7 +22,8 @@ Hi, My name is Paul Steven, I have completed Master in Computer Science &Enginee
 </details> 
 
 **StackOverflow Reputation Earned:**
-https://i.postimg.cc/KzRrPhTJ/strep.png
+
+
 <code><img  height="50" src="https://i.postimg.cc/KzRrPhTJ/strep.png"></code>
 
   
