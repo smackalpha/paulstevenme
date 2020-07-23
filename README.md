@@ -23,12 +23,17 @@ Hi, My name is Paul Steven, I have completed Master in Computer Science &Enginee
   
 **Language and Tools:**
 
+<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/android/android-plain.svg"></code>
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/java/java-plain.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/></code>
+
+**Frameworks Handled:**
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulstevenme&theme=tokyonight)
 ![Paul Steven github stats](https://github-readme-stats.vercel.app/api?username=paulstevenme&show_icons=true&theme=tokyonight)
