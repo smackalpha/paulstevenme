@@ -18,7 +18,6 @@ Hi, My name is Paul Steven, I have completed Master in Computer Science &Enginee
 <li>💻 Sharing My Daily Coding Life.</li>
 <li>📚 Lifelong Learner.</li>
 <li>📫 Contact me - <a href="mailto:paulstevenme@gmail.com">paulstevenme@gmail.com</a></li>
-<li>😄 Pronouns: He/Him</li>
 
 </details> 
   
