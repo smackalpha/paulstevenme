@@ -1,38 +1,24 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Paul Steven</h1>
 
 
-<img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/>
+<img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="450" width="350"/>
 
  <br/>
  
-- 🔭 I’m currently working on `Deep Learning with Pytorch`
-- 🌱 I’m currently learning `Differential Privacy`
-- 👯 I’m looking to collaborate with `OpenMined`
+- 🎓 Strong Engineering professional with a `Master's degree in Computer Science`
+- 💪🏻 Skilled in Python, React JS, Express Framework and Android App Development(Java & Kotlin)
+- 💾 Handled `Elastic Search`, `Firebase`, `MySQL`, `SQLite`, `Mongo` Databases
 - 🤔 I’m looking for help with `Huggingface Transformers` and `Competitive Programming`
+- 💻 Sharing My Daily Coding Life.
+- 📚 Lifelong Learner.
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: I love playing Computer games
+- 📫 Contact me - <a href="mailto:paulstevenme@gmail.com">paulstevenme@gmail.com</a>
+- Connect with me - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulstevenme/)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulstevenme/)
+
 <br/>
-
-Hi, My name is Paul Steven, I have completed Master in Computer Science &Engineering. I'm proficient in CoreJava, Python and have hands-on experience in Flask, React JS, Android App Development. I believe in learning and sharing my Knowledge through my Linkedin Posts. Besides programming, I love play video games, creating videos and being social.
-<br/>
-
-
-<details> <summary>Featured</summary>
-
-<li>💻 1+ Year Experience in Python, ReactJS, Android.</li>
-<li>🏫 1+ Year Experience as Assistant Professor in Engineering College.</li>
-<li>🎓 Strong Engineering professional with a Master's degree in Computer Science</li>
-<li>💪🏻 Skilled in Python, React JS and Android App Development</li>
-<li>💾 Handled Elastic Search, Firebase, MySQL, SQLite, Mongo, Couch Databases.</li>
-<li>🌈 Played with ReactJS.</li>
-<li>💻 Sharing My Daily Coding Life.</li>
-<li>📚 Lifelong Learner.</li>
-<li>📫 Contact me - <a href="mailto:paulstevenme@gmail.com">paulstevenme@gmail.com</a></li>
-
-</details> 
 
 **StackOverflow Reputation Earned:**
 
