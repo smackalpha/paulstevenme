@@ -1,4 +1,17 @@
-## Hi there, I'm Paul Steven 👋
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Paul Steven</h1>
+
+
+<img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="250"/>
+
+ <br/>
+ 
+- 🔭 I’m currently working on `Deep Learning with Pytorch`
+- 🌱 I’m currently learning `Differential Privacy`
+- 👯 I’m looking to collaborate with `OpenMined`
+- 🤔 I’m looking for help with `Huggingface Transformers` and `Competitive Programming`
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- ⚡ Fun fact: I waste most of my time playing games
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulstevenme/)
 <br/>
