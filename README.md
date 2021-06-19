@@ -8,7 +8,6 @@
 - 🎓 Strong Engineering professional with a `Master's degree in Computer Science`
 - 💪🏻 Skilled in Python, React JS, Express Framework and Android App Development(Java & Kotlin)
 - 💾 Handled `Elastic Search`, `Firebase`, `MySQL`, `SQLite`, `Mongo` Databases
-- 🤔 I’m looking for help with `Huggingface Transformers` and `Competitive Programming`
 - 💻 Sharing My Daily Coding Life.
 - 📚 Lifelong Learner.
 - 💬 Ask me about anything, Except Maths :sweat_smile:
