@@ -4,7 +4,7 @@
 <img align="right" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" height="350" width="350"/>
 
  <br/>
- 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulstevenme&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 - 🎓 Strong Engineering professional with a `Master's degree in Computer Science`
 - 💪🏻 Skilled in Python, React JS, Express Framework and Android App Development(Java & Kotlin)
 - 💾 Handled `Elastic Search`, `Firebase`, `MySQL`, `SQLite`, `Mongo` Databases
